@@ -1,8 +1,8 @@
 {
   "id": "./",
-  "name": "Caixinha 4.0 — Controle Financeiro",
-  "short_name": "Caixinha 4.0",
-  "description": "Controle financeiro pessoal com receitas, despesas, orçamento e cofrinhos. Dados locais.",
+  "name": "Caixinha 5.0 — Controle Financeiro",
+  "short_name": "Caixinha 5.0",
+  "description": "Controle financeiro pessoal com calculadora, simulação de parcelas, receitas, despesas, orçamento e cofrinhos. Dados locais.",
   "lang": "pt-BR",
   "start_url": "./index.html",
   "scope": "./",

@@ -1,4 +1,4 @@
-CAIXINHA 4.0 — FINTECH LOCAL
+CAIXINHA 5.0 — FINTECH LOCAL
 
 O QUE MUDOU
 - Identidade visual renovada e tema escuro premium.
@@ -22,3 +22,9 @@ DADOS E PRIVACIDADE
 - Faça backup JSON regularmente. Limpar os dados do navegador pode apagar registros.
 - O PIN é uma barreira de acesso local, não criptografa os dados. Não armazene senhas bancárias, números completos de cartão ou dados altamente sensíveis.
 - Receitas e despesas são controles manuais; não há conexão bancária nem leitura automática de extratos.
+
+
+NOVIDADES DA VERSÃO 5.0
+- Calculadora financeira com operações básicas.
+- Simulador de parcelas com juros zero, juros simples ou sistema Price.
+- Interface das ferramentas adaptada para celular.
