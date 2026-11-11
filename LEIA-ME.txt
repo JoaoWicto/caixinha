@@ -1,0 +1,24 @@
+CAIXINHA 4.0 — FINTECH LOCAL
+
+O QUE MUDOU
+- Identidade visual renovada e tema escuro premium.
+- Receitas e despesas pessoais separadas, com resumo mensal.
+- Orçamento mensal com indicador de consumo e saldo disponível.
+- Pesquisa e filtros no extrato de movimentações dos cofrinhos.
+- Ocultação rápida dos valores na tela.
+- Exportação de extrato em CSV e backup/restauração em JSON.
+- Mantidos cofrinhos, depósitos, retiradas, transferências, planejamento, calendário, estatísticas, conquistas e PIN.
+- Dados permanecem no navegador por meio de localStorage; não há conta, servidor ou sincronização em nuvem.
+
+COMO EXECUTAR
+1. Extraia todos os arquivos para uma pasta.
+2. Abra index.html para uso local.
+3. Para instalar como PWA e habilitar cache offline, execute na pasta: python -m http.server 8000
+4. Acesse http://localhost:8000.
+
+DADOS E PRIVACIDADE
+- A chave de armazenamento da versão 3.0 foi mantida para preservar dados no mesmo navegador e origem.
+- Novos registros de receitas e orçamento são adicionados sem apagar cofrinhos, movimentações, despesas ou planos anteriores.
+- Faça backup JSON regularmente. Limpar os dados do navegador pode apagar registros.
+- O PIN é uma barreira de acesso local, não criptografa os dados. Não armazene senhas bancárias, números completos de cartão ou dados altamente sensíveis.
+- Receitas e despesas são controles manuais; não há conexão bancária nem leitura automática de extratos.
